@@ -1,11 +1,5 @@
 [
-  {
-    "name":"Google Pixel 3","price":23,400 
-  },
-  {
-    "name":"Google Pixel 2","price":23,400 
-  },
-  {
-    "name":"Google Pixel 13","price":23,400 
-  }
+  {"name":"Google Pixel 3","price":23,400},
+  {"name":"Google Pixel 2","price":23,40},
+  {"name":"Google Pixel 13","price":23,700}
 ]
