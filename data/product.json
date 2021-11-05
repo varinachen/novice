@@ -1,10 +1,14 @@
 [
-  {"name":"Google Pixel 3",
-   "price":23,400
+  {
+    "name":"iPhone 13",
+    "price":30000
   },
-  {"name":"Google Pixel 2",
-   "price":23,40},
-  {"name":"Google Pixel 13",
-   "price":23,700
+  {
+    "name":"Google Pixel",
+    "price":25000
+  },
+  {
+    "name":"iPhone 5",
+    "price":3000
   }
 ]
