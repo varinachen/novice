@@ -1,1 +1,14 @@
-[]
+[
+  {
+   "name":"Google Pixel 3",
+   "price":"23,400" 
+  },  
+  {
+   "name":"Google Pixel 8",
+   "price":"38,400" 
+  },
+  {
+   "name":"Google Pixel 13",
+   "price":"66,400" 
+  }
+]
